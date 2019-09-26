@@ -28,6 +28,6 @@ Inside the conatiner you will be able run ansible commands. Verify it by using s
 Change the password of the root user as required in Dockerfile or after entering into the conatiner.
 To add hosts/hostgroups edit /etc/ansible/ansible.cfg
 
-If the target host is AWS instance use --private-key <.pem> with ansible command.
+If the target host is AWS instance use --private-key <.pem> with ansible command
 
 **Reference:** https://fabianlee.org/2017/06/04/ansible-installing-ansible-on-ubuntu-14-04/

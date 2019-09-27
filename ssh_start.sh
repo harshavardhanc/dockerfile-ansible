@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Docker Entrypoint script.
 # Start the ssh server
 /etc/init.d/ssh restart

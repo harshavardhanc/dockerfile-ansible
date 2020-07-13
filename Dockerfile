@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Harsha
+MAINTAINER Harsha <harshavardhanc95@gmail.com>
 RUN apt-get update
 RUN apt-get install wget vim -y
 RUN apt-get install python -y
